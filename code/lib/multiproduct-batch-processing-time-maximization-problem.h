@@ -20,8 +20,6 @@ This project with its files can be consulted at https://github.com/tbfraga/COPSo
 #ifndef MULTIPRODUCT_BATCH_PROCESSING_TIME_MAXIMIZATION_PROBLEM_H_INCLUDED
 #define MULTIPRODUCT_BATCH_PROCESSING_TIME_MAXIMIZATION_PROBLEM_H_INCLUDED
 
-#include <unistd.h>
-#include <bits/stdc++.h>
 #include<iostream>
 #include<fstream>
 #include<iomanip>
