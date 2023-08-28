@@ -1,0 +1,16 @@
+// number of products (N);
+2
+// production rate (R_1,...,R_N);
+60 40
+// production rate (D_1,...,D_N);
+1000 500
+// total outlets storage capacity (O);
+1000
+// outlets storage capacity by product (UO_1,...,UO_N);
+600 600
+// total factory storage capacity (I);
+3000
+// factory storage capacity by product (UO_1,...,UO_N);
+3000 2000
+// maximum batch processing time (Z);
+100
